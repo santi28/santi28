@@ -39,7 +39,7 @@ $ hobbies
 $ contact --info
 > Email: santiadenicolas@gmail.com
 > LinkedIn: [linkedin.com/in/santiagodenicolas](https://linkedin.com/in/santiagodenicolas)
-> GitHub: [github.com/santi23](https://github.com/santi23)
+> GitHub: [github.com/santi28](https://github.com/santi28)
 
 $ exit
 ```
